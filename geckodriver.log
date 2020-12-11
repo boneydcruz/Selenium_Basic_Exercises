@@ -1,0 +1,627 @@
+1607474162825	geckodriver	INFO	Listening on 127.0.0.1:61695
+1607474165894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofiletSqd1J"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607474169282	Marionette	INFO	Listening on port 61703
+1607474169599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607474173660	Marionette	INFO	Stopped listening on port 61703
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607474199635	geckodriver	INFO	Listening on 127.0.0.1:61746
+1607474202711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofile5MZVew"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607474205983	Marionette	INFO	Listening on port 61754
+1607474206411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607474209617	Marionette	INFO	Stopped listening on port 61754
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607474773102	geckodriver	INFO	Listening on 127.0.0.1:53447
+1607474776191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileVwE6Ap"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607474779745	Marionette	INFO	Listening on port 53455
+1607474779920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607474789138	Marionette	INFO	Stopped listening on port 53455
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607480521632	geckodriver	INFO	Listening on 127.0.0.1:53873
+1607480524714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileBrfEPe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607480527995	Marionette	INFO	Listening on port 53882
+1607480528358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607480713364	Marionette	INFO	Stopped listening on port 53882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileD2eIcM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607480607528	Marionette	INFO	Listening on port 53995
+1607480607776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607480616197	Marionette	INFO	Stopped listening on port 53995
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607480694408	geckodriver	INFO	Listening on 127.0.0.1:54092
+1607480697450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofile0RVPqy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607480700377	Marionette	INFO	Listening on port 54101
+1607480700587	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607480709020	Marionette	INFO	Stopped listening on port 54101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607480728666	geckodriver	INFO	Listening on 127.0.0.1:54175
+1607480731698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofilerQWnJy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607480734648	Marionette	INFO	Listening on port 54184
+1607480734846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607480746506	Marionette	INFO	Stopped listening on port 54184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607480830903	geckodriver	INFO	Listening on 127.0.0.1:54291
+1607480833942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofilepsecwB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607480836632	Marionette	INFO	Listening on port 54301
+1607480837077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607480845439	Marionette	INFO	Stopped listening on port 54301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607480882331	geckodriver	INFO	Listening on 127.0.0.1:54383
+1607480885377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileHb8YSq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607480888180	Marionette	INFO	Listening on port 54392
+1607480888510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607480897045	Marionette	INFO	Stopped listening on port 54392
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607480967318	geckodriver	INFO	Listening on 127.0.0.1:54497
+1607480970375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofilestTvox"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607480973093	Marionette	INFO	Listening on port 54506
+1607480973514	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1607481283091	Marionette	INFO	Stopped listening on port 54506
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofiletqe6kU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607481284671	Marionette	INFO	Listening on port 54723
+1607481285021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607481310418	Marionette	INFO	Stopped listening on port 54723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607483222670	geckodriver	INFO	Listening on 127.0.0.1:64693
+1607483225725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofile3e02GC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607483227982	Marionette	INFO	Listening on port 64702
+1607483228377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607483260833	Marionette	INFO	Stopped listening on port 64702
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607484621574	geckodriver	INFO	Listening on 127.0.0.1:49276
+1607484624635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileWLyqTI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607484626816	Marionette	INFO	Listening on port 49284
+1607484627297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607484641858	Marionette	INFO	Stopped listening on port 49284
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607484696399	geckodriver	INFO	Listening on 127.0.0.1:49325
+1607484699465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileJJgxCs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607484701507	Marionette	INFO	Listening on port 49333
+1607484701596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607484712879	Marionette	INFO	Stopped listening on port 49333
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607484804197	geckodriver	INFO	Listening on 127.0.0.1:49371
+1607484807249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileoCZNxK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607484809440	Marionette	INFO	Listening on port 49379
+1607484809905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607484954090	Marionette	INFO	Stopped listening on port 49379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileW2ow0x"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607484927479	Marionette	INFO	Listening on port 49427
+1607484927981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607484951277	Marionette	INFO	Stopped listening on port 49427
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607484978271	geckodriver	INFO	Listening on 127.0.0.1:49475
+1607484981328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofile6UCeXQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607484983480	Marionette	INFO	Listening on port 49483
+1607484984003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607485004371	Marionette	INFO	Stopped listening on port 49483
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607485016793	geckodriver	INFO	Listening on 127.0.0.1:49529
+1607485019851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofilegJPsqf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607485021988	Marionette	INFO	Listening on port 49537
+1607485022507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607485037779	Marionette	INFO	Stopped listening on port 49537
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607485242978	geckodriver	INFO	Listening on 127.0.0.1:49587
+1607485246050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileGJBpmf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607485248200	Marionette	INFO	Listening on port 49595
+1607485248700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607485266720	Marionette	INFO	Stopped listening on port 49595
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607485280380	geckodriver	INFO	Listening on 127.0.0.1:49636
+1607485283453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileREvQnl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607485285558	Marionette	INFO	Listening on port 49644
+1607485285620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607485294375	Marionette	INFO	Stopped listening on port 49644
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607485344419	geckodriver	INFO	Listening on 127.0.0.1:49689
+1607485347489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofile8mtxAl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607485349655	Marionette	INFO	Listening on port 49697
+1607485350149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607485373616	Marionette	INFO	Stopped listening on port 49697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607485477151	geckodriver	INFO	Listening on 127.0.0.1:49743
+1607485480206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileilvm3i"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607485482416	Marionette	INFO	Listening on port 49751
+1607485482836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607485493298	Marionette	INFO	Stopped listening on port 49751
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607726679281	geckodriver	INFO	Listening on 127.0.0.1:56314
+1607726682354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofilelS1l8q"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607726685565	Marionette	INFO	Listening on port 56323
+1607726686110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607726707545	Marionette	INFO	Stopped listening on port 56323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607726726498	geckodriver	INFO	Listening on 127.0.0.1:56379
+1607726729572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofiler6Ucx2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607726731846	Marionette	INFO	Listening on port 56387
+1607726732246	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?q=bmw&start=" "with ads but couldn't find the information"
+1607726742515	Marionette	INFO	Stopped listening on port 56387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607726758647	geckodriver	INFO	Listening on 127.0.0.1:56436
+1607726761716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofilevm08K9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607726763957	Marionette	INFO	Listening on port 56444
+1607726764383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607726774189	Marionette	INFO	Stopped listening on port 56444
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607726790078	geckodriver	INFO	Listening on 127.0.0.1:56582
+1607726793181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileTYJ2tM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607726795652	Marionette	INFO	Listening on port 56590
+1607726795854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607726813316	Marionette	INFO	Stopped listening on port 56590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607726834850	geckodriver	INFO	Listening on 127.0.0.1:56635
+1607726837972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileGdDM2u"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607726840195	Marionette	INFO	Listening on port 56643
+1607726840638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607726859492	Marionette	INFO	Stopped listening on port 56643
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607727062171	geckodriver	INFO	Listening on 127.0.0.1:56734
+1607727065256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileWLCFAG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607727067617	Marionette	INFO	Listening on port 56742
+1607727067928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607727079234	Marionette	INFO	Stopped listening on port 56742
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607727110782	geckodriver	INFO	Listening on 127.0.0.1:56781
+1607727113841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofileX07YWx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607727116297	Marionette	INFO	Listening on port 56789
+1607727116519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607727124162	Marionette	INFO	Stopped listening on port 56789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607727161677	geckodriver	INFO	Listening on 127.0.0.1:56836
+1607727164775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofilekrGxlz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607727166941	Marionette	INFO	Listening on port 56844
+1607727167442	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607727292003	Marionette	INFO	Stopped listening on port 56844
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607727302983	geckodriver	INFO	Listening on 127.0.0.1:56896
+1607727306078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofilejEBpMo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607727308158	Marionette	INFO	Listening on port 56904
+1607727308241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607727316941	Marionette	INFO	Stopped listening on port 56904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607727327126	geckodriver	INFO	Listening on 127.0.0.1:56941
+1607727330219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BAIRES~1\\AppData\\Local\\Temp\\rust_mozprofile8uIDxz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607727332323	Marionette	INFO	Listening on port 56949
+1607727332424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: https://www.blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://www.blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1607727340987	Marionette	INFO	Stopped listening on port 56949
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
